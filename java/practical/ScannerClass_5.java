@@ -1,3 +1,4 @@
+package practical;
 import java.util.Scanner;
 
 public class ScannerClass_5 {

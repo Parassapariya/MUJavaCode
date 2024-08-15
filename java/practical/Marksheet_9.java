@@ -1,3 +1,4 @@
+package practical;
 import java.util.*;
 
 public class Marksheet_9 {
