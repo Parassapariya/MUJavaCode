@@ -1,4 +1,4 @@
-package programe_44;
+package programe_44.loop;
 
 public class loop_h_8 {
     public static void main(String[] args) {
