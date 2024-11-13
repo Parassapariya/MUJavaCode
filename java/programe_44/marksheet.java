@@ -20,9 +20,9 @@ public class marksheet {
         String Grade;
         if (java < 40 || ds < 40 || rdms < 40) {
             Grade = "Fail";
-        } else if (per > 80) {
+        } else if (per >= 80) {
             Grade = "Distinction";
-        } else if (per < 79 && per > 60) {
+        } else if (per <= 79 && per >= 60) {
             Grade = "First Class";
         } else {
             Grade = "Pass";
